@@ -136,23 +136,3 @@
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" /></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Hello!-ea4335?style=flat&logo=gmail" /></a>
 </p>
-
----
-
-## ⚙️ Automations / Actions (optional)
-- Add a `/.github/workflows/update-readme.yml` GitHub Action to auto-refresh dynamic badges, or to generate the `assets` GIFs on schedule (nightly demo refresh).  
-- Add `dependabot` and a CI badge to show build status.
-
----
-
-## 🧩 Quick customizations (what to replace)
-1. Upload your GIFs/SVGs into `assets/` and update URLs used in the README:
-   - `assets/banner.gif` for the top banner
-   - `assets/robot-arm-demo.gif`, `assets/sr-demo.gif`, `assets/ucm-cm.png`
-2. Replace `your.email@example.com` and `YOUR_LINKEDIN` with actual contact links.
-3. If any external card (readme-stats, streaks) fails, host a fallback `assets/stats-fallback.png` and replace the image link.
-4. Want a different theme? change `&theme=tokyonight` in the readme stats images (options: `radical`, `merko`, `gruvbox`, `tokyonight`, etc.)
-
----
-
-<p align="center"><i>Made with ✨ and a touch of chaos. Edit freely — want this prettier, animated SVG header, or an auto-updating GitHub Action? I can generate them next.</i></p>
