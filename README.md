@@ -1,12 +1,7 @@
 <!-- README.md — "Insane" GitHub Profile for Aman Verma (VermaAman-tech) -->
-<p align="center">
-  <!-- Banner GIF (replace by uploading assets/banner.gif to this repo and changing URL) -->
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="banner" width="100%" />
-</p>
-
 <h1 align="center">👋 Hi, I'm Aman Verma — <i>VermaAman-tech</i></h1>
 <p align="center">
-  <i>AI engineer • Robotics tinkerer • Reproducible ML obsessive</i>
+  <i>AI engineer • Developer • Reproducible ML obsessive</i>
 </p>
 
 <p align="center">
